@@ -44,8 +44,13 @@ This project explores the use of **machine learning models** to detect Alzheimer
 
 ## 🖥️ How to Run the Code  
 
-### Install Dependencies  
+## 📦 Dependencies  
+
+Install the required dependencies using pip:  
+
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn sdv xgboost lightgbm
+
 
 ## 📦 Dependencies  
 
