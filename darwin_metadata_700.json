@@ -1,0 +1,1362 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "primary_key": "ID",
+    "columns": {
+        "ID": {
+            "sdtype": "id"
+        },
+        "air_time1": {
+            "sdtype": "numerical"
+        },
+        "disp_index1": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air1": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper1": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension1": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension1": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air1": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper1": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt1": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air1": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper1": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air1": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper1": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown1": {
+            "sdtype": "numerical"
+        },
+        "paper_time1": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean1": {
+            "sdtype": "numerical"
+        },
+        "pressure_var1": {
+            "sdtype": "numerical"
+        },
+        "total_time1": {
+            "sdtype": "numerical"
+        },
+        "air_time2": {
+            "sdtype": "numerical"
+        },
+        "disp_index2": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air2": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper2": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension2": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension2": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air2": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper2": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt2": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air2": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper2": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air2": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper2": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown2": {
+            "sdtype": "numerical"
+        },
+        "paper_time2": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean2": {
+            "sdtype": "numerical"
+        },
+        "pressure_var2": {
+            "sdtype": "numerical"
+        },
+        "total_time2": {
+            "sdtype": "numerical"
+        },
+        "air_time3": {
+            "sdtype": "numerical"
+        },
+        "disp_index3": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air3": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper3": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension3": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension3": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air3": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper3": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt3": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air3": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper3": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air3": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper3": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown3": {
+            "sdtype": "numerical"
+        },
+        "paper_time3": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean3": {
+            "sdtype": "numerical"
+        },
+        "pressure_var3": {
+            "sdtype": "numerical"
+        },
+        "total_time3": {
+            "sdtype": "numerical"
+        },
+        "air_time4": {
+            "sdtype": "numerical"
+        },
+        "disp_index4": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air4": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper4": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension4": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension4": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air4": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper4": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt4": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air4": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper4": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air4": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper4": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown4": {
+            "sdtype": "numerical"
+        },
+        "paper_time4": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean4": {
+            "sdtype": "numerical"
+        },
+        "pressure_var4": {
+            "sdtype": "numerical"
+        },
+        "total_time4": {
+            "sdtype": "numerical"
+        },
+        "air_time5": {
+            "sdtype": "numerical"
+        },
+        "disp_index5": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air5": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper5": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension5": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension5": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air5": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper5": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt5": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air5": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper5": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air5": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper5": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown5": {
+            "sdtype": "numerical"
+        },
+        "paper_time5": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean5": {
+            "sdtype": "numerical"
+        },
+        "pressure_var5": {
+            "sdtype": "numerical"
+        },
+        "total_time5": {
+            "sdtype": "numerical"
+        },
+        "air_time6": {
+            "sdtype": "numerical"
+        },
+        "disp_index6": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air6": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper6": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension6": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension6": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air6": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper6": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt6": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air6": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper6": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air6": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper6": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown6": {
+            "sdtype": "numerical"
+        },
+        "paper_time6": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean6": {
+            "sdtype": "numerical"
+        },
+        "pressure_var6": {
+            "sdtype": "numerical"
+        },
+        "total_time6": {
+            "sdtype": "numerical"
+        },
+        "air_time7": {
+            "sdtype": "numerical"
+        },
+        "disp_index7": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air7": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper7": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension7": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension7": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air7": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper7": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt7": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air7": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper7": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air7": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper7": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown7": {
+            "sdtype": "numerical"
+        },
+        "paper_time7": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean7": {
+            "sdtype": "numerical"
+        },
+        "pressure_var7": {
+            "sdtype": "numerical"
+        },
+        "total_time7": {
+            "sdtype": "numerical"
+        },
+        "air_time8": {
+            "sdtype": "numerical"
+        },
+        "disp_index8": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air8": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper8": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension8": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension8": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air8": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper8": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt8": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air8": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper8": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air8": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper8": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown8": {
+            "sdtype": "numerical"
+        },
+        "paper_time8": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean8": {
+            "sdtype": "numerical"
+        },
+        "pressure_var8": {
+            "sdtype": "numerical"
+        },
+        "total_time8": {
+            "sdtype": "numerical"
+        },
+        "air_time9": {
+            "sdtype": "numerical"
+        },
+        "disp_index9": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air9": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper9": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension9": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension9": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air9": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper9": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt9": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air9": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper9": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air9": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper9": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown9": {
+            "sdtype": "numerical"
+        },
+        "paper_time9": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean9": {
+            "sdtype": "numerical"
+        },
+        "pressure_var9": {
+            "sdtype": "numerical"
+        },
+        "total_time9": {
+            "sdtype": "numerical"
+        },
+        "air_time10": {
+            "sdtype": "numerical"
+        },
+        "disp_index10": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air10": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper10": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension10": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension10": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air10": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper10": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt10": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air10": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper10": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air10": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper10": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown10": {
+            "sdtype": "numerical"
+        },
+        "paper_time10": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean10": {
+            "sdtype": "numerical"
+        },
+        "pressure_var10": {
+            "sdtype": "numerical"
+        },
+        "total_time10": {
+            "sdtype": "numerical"
+        },
+        "air_time11": {
+            "sdtype": "numerical"
+        },
+        "disp_index11": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air11": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper11": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension11": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension11": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air11": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper11": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt11": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air11": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper11": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air11": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper11": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown11": {
+            "sdtype": "numerical"
+        },
+        "paper_time11": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean11": {
+            "sdtype": "numerical"
+        },
+        "pressure_var11": {
+            "sdtype": "numerical"
+        },
+        "total_time11": {
+            "sdtype": "numerical"
+        },
+        "air_time12": {
+            "sdtype": "numerical"
+        },
+        "disp_index12": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air12": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper12": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension12": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension12": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air12": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper12": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt12": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air12": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper12": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air12": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper12": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown12": {
+            "sdtype": "numerical"
+        },
+        "paper_time12": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean12": {
+            "sdtype": "numerical"
+        },
+        "pressure_var12": {
+            "sdtype": "numerical"
+        },
+        "total_time12": {
+            "sdtype": "numerical"
+        },
+        "air_time13": {
+            "sdtype": "numerical"
+        },
+        "disp_index13": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air13": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper13": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension13": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension13": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air13": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper13": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt13": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air13": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper13": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air13": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper13": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown13": {
+            "sdtype": "numerical"
+        },
+        "paper_time13": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean13": {
+            "sdtype": "numerical"
+        },
+        "pressure_var13": {
+            "sdtype": "numerical"
+        },
+        "total_time13": {
+            "sdtype": "numerical"
+        },
+        "air_time14": {
+            "sdtype": "numerical"
+        },
+        "disp_index14": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air14": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper14": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension14": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension14": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air14": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper14": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt14": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air14": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper14": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air14": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper14": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown14": {
+            "sdtype": "numerical"
+        },
+        "paper_time14": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean14": {
+            "sdtype": "numerical"
+        },
+        "pressure_var14": {
+            "sdtype": "numerical"
+        },
+        "total_time14": {
+            "sdtype": "numerical"
+        },
+        "air_time15": {
+            "sdtype": "numerical"
+        },
+        "disp_index15": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air15": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper15": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension15": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension15": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air15": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper15": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt15": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air15": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper15": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air15": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper15": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown15": {
+            "sdtype": "numerical"
+        },
+        "paper_time15": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean15": {
+            "sdtype": "numerical"
+        },
+        "pressure_var15": {
+            "sdtype": "numerical"
+        },
+        "total_time15": {
+            "sdtype": "numerical"
+        },
+        "air_time16": {
+            "sdtype": "numerical"
+        },
+        "disp_index16": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air16": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper16": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension16": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension16": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air16": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper16": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt16": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air16": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper16": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air16": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper16": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown16": {
+            "sdtype": "numerical"
+        },
+        "paper_time16": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean16": {
+            "sdtype": "numerical"
+        },
+        "pressure_var16": {
+            "sdtype": "numerical"
+        },
+        "total_time16": {
+            "sdtype": "numerical"
+        },
+        "air_time17": {
+            "sdtype": "numerical"
+        },
+        "disp_index17": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air17": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper17": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension17": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension17": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air17": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper17": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt17": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air17": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper17": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air17": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper17": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown17": {
+            "sdtype": "numerical"
+        },
+        "paper_time17": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean17": {
+            "sdtype": "numerical"
+        },
+        "pressure_var17": {
+            "sdtype": "numerical"
+        },
+        "total_time17": {
+            "sdtype": "numerical"
+        },
+        "air_time18": {
+            "sdtype": "numerical"
+        },
+        "disp_index18": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air18": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper18": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension18": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension18": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air18": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper18": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt18": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air18": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper18": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air18": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper18": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown18": {
+            "sdtype": "numerical"
+        },
+        "paper_time18": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean18": {
+            "sdtype": "numerical"
+        },
+        "pressure_var18": {
+            "sdtype": "numerical"
+        },
+        "total_time18": {
+            "sdtype": "numerical"
+        },
+        "air_time19": {
+            "sdtype": "numerical"
+        },
+        "disp_index19": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air19": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper19": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension19": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension19": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air19": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper19": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt19": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air19": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper19": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air19": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper19": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown19": {
+            "sdtype": "numerical"
+        },
+        "paper_time19": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean19": {
+            "sdtype": "numerical"
+        },
+        "pressure_var19": {
+            "sdtype": "numerical"
+        },
+        "total_time19": {
+            "sdtype": "numerical"
+        },
+        "air_time20": {
+            "sdtype": "numerical"
+        },
+        "disp_index20": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air20": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper20": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension20": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension20": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air20": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper20": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt20": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air20": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper20": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air20": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper20": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown20": {
+            "sdtype": "numerical"
+        },
+        "paper_time20": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean20": {
+            "sdtype": "numerical"
+        },
+        "pressure_var20": {
+            "sdtype": "numerical"
+        },
+        "total_time20": {
+            "sdtype": "numerical"
+        },
+        "air_time21": {
+            "sdtype": "numerical"
+        },
+        "disp_index21": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air21": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper21": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension21": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension21": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air21": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper21": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt21": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air21": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper21": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air21": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper21": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown21": {
+            "sdtype": "numerical"
+        },
+        "paper_time21": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean21": {
+            "sdtype": "numerical"
+        },
+        "pressure_var21": {
+            "sdtype": "numerical"
+        },
+        "total_time21": {
+            "sdtype": "numerical"
+        },
+        "air_time22": {
+            "sdtype": "numerical"
+        },
+        "disp_index22": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air22": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper22": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension22": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension22": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air22": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper22": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt22": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air22": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper22": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air22": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper22": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown22": {
+            "sdtype": "numerical"
+        },
+        "paper_time22": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean22": {
+            "sdtype": "numerical"
+        },
+        "pressure_var22": {
+            "sdtype": "numerical"
+        },
+        "total_time22": {
+            "sdtype": "numerical"
+        },
+        "air_time23": {
+            "sdtype": "numerical"
+        },
+        "disp_index23": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air23": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper23": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension23": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension23": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air23": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper23": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt23": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air23": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper23": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air23": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper23": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown23": {
+            "sdtype": "numerical"
+        },
+        "paper_time23": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean23": {
+            "sdtype": "numerical"
+        },
+        "pressure_var23": {
+            "sdtype": "numerical"
+        },
+        "total_time23": {
+            "sdtype": "numerical"
+        },
+        "air_time24": {
+            "sdtype": "numerical"
+        },
+        "disp_index24": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air24": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper24": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension24": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension24": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air24": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper24": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt24": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air24": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper24": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air24": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper24": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown24": {
+            "sdtype": "numerical"
+        },
+        "paper_time24": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean24": {
+            "sdtype": "numerical"
+        },
+        "pressure_var24": {
+            "sdtype": "numerical"
+        },
+        "total_time24": {
+            "sdtype": "numerical"
+        },
+        "air_time25": {
+            "sdtype": "numerical"
+        },
+        "disp_index25": {
+            "sdtype": "numerical"
+        },
+        "gmrt_in_air25": {
+            "sdtype": "numerical"
+        },
+        "gmrt_on_paper25": {
+            "sdtype": "numerical"
+        },
+        "max_x_extension25": {
+            "sdtype": "numerical"
+        },
+        "max_y_extension25": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_in_air25": {
+            "sdtype": "numerical"
+        },
+        "mean_acc_on_paper25": {
+            "sdtype": "numerical"
+        },
+        "mean_gmrt25": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_in_air25": {
+            "sdtype": "numerical"
+        },
+        "mean_jerk_on_paper25": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_in_air25": {
+            "sdtype": "numerical"
+        },
+        "mean_speed_on_paper25": {
+            "sdtype": "numerical"
+        },
+        "num_of_pendown25": {
+            "sdtype": "numerical"
+        },
+        "paper_time25": {
+            "sdtype": "numerical"
+        },
+        "pressure_mean25": {
+            "sdtype": "numerical"
+        },
+        "pressure_var25": {
+            "sdtype": "numerical"
+        },
+        "total_time25": {
+            "sdtype": "numerical"
+        },
+        "class": {
+            "sdtype": "categorical"
+        }
+    }
+}
